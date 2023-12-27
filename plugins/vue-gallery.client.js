@@ -1,0 +1,1 @@
+import VueGallery from"vue-gallery";export default defineNuxtPlugin(e=>{e.vueApp.component("gallery",VueGallery)});
